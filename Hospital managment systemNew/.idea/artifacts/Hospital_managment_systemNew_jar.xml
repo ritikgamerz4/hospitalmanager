@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Hospital managment systemNew:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hospital_managment_systemNew_jar</output-path>
+    <root id="archive" name="Hospital managment systemNew.jar">
+      <element id="module-output" name="Hospital managment systemNew" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-java-8.0.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ResultSet2xml.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
